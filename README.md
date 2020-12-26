@@ -13,4 +13,5 @@
 <li><em>To save these changes we use the <strong>git commit</strong> command with a modification "-m" to notify the placeholder text in this commit followed by the placeholder text and (optional) second "-m" followed by description for this commit <div><strong>git commit -m "Added index.html and updated README.md" -m "some description"</strong></div></em></li>
 <li><em>Now this only saves the changes on our local machine and not on GitHub where our project is hosted, to make these changes in the live project on GitHub we use the command <strong>git push origin master</strong></em></li>
 </ul>
-
+## Local Deveopment :
+1. Open index.html in your browser.
