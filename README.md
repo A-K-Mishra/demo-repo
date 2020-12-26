@@ -4,7 +4,7 @@
 <li><em>When we edit this file, we have certain options to "commit" or save these changes, we see that the placeholder text has been changed, we go ahead and commit these changes with the preselected option, i.e. commit to the main branch</em></li>
 <li><em>For cloning/downloading the repository to work on your local system , we use the following steps : </em><li>
 <ul>
-<li>First setup git on your PC, <embed width="560" height="315" src="https://www.youtube.com/embed/RGOj5yH7evk?start=660" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>See this Tutorial to install Git</embed></li>
+<li>First setup git on your PC, <a href="https://www.youtube.com/embed/RGOj5yH7evk?start=660" >see this Tutorial to install Git</a></li>
 <li>If you need to clone/download directly using HTTPS url the later steps are not necessary that deal with the SSH key,For this just type <div><strong >git clone <em>https-url-of-repository</em></strong></div></li>
 <li>For using SSH keys, which are secure shell login without having to login eveytime, follow the steps  <a href ="https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/connecting-to-github-with-ssh">here</a> </li>
 <li>After setting up SSH key we use same syntax as for HTTPS url but paste the SSH url, and we are able to download it and edit it locally on our PC</li>
