@@ -14,3 +14,5 @@
 <li><em>Now this only saves the changes on our local machine and not on GitHub where our project is hosted, to make these changes in the live project on GitHub we use the command <strong>git push origin master</strong></em></li>
 </ul>
 
+## Local Deveopment :
+1. Open index.html in your browser.
